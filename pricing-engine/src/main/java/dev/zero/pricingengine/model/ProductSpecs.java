@@ -11,7 +11,7 @@ public class ProductSpecs {
 	private String supply;
 	private String demand;
 
-	public ProductSpecs(String productName, String supply, String demand) {
+	public ProductSpecs(String productName, String supply, String demand){
 		super();
 		this.productName = productName;
 		this.supply = supply;

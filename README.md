@@ -51,3 +51,10 @@ ssd Z 12.0
 Output 2:
 A 50.0
 B 12.1
+
+Build and execute instructions:
+clone or download the project and run 
+mvn clean install
+jar is created in /target folder of the project
+and then run java -jar pricing-engine.jar
+

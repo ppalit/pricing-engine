@@ -58,6 +58,9 @@ public class AppControlTest {
 		
 	}
 
+	/**
+	 * Integration Test 
+	 */
 	@Test
 	public void executeTest() {
 		dataInput = Mockito.mock(DataInput.class);

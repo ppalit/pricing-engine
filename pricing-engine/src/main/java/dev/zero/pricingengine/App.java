@@ -1,7 +1,8 @@
 package dev.zero.pricingengine;
 
 /**
- * Hello world!
+ * App - Entry point for the pricing engine
+ * @author ppalit
  *
  */
 public class App{

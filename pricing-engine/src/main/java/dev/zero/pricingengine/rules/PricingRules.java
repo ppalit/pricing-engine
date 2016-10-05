@@ -1,5 +1,10 @@
 package dev.zero.pricingengine.rules;
 
+/**
+ * PricingRules - defines the rules for marking up or down the price.
+ * @author ppalit
+ *
+ */
 public class PricingRules implements Rules{
 	
 	public int markup(String supply, String demand){

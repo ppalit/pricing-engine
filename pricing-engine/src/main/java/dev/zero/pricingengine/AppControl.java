@@ -13,7 +13,11 @@ import dev.zero.pricingengine.processor.PricingEngineProcessor;
 import dev.zero.pricingengine.processor.PricingEngineProcessorImpl;
 import dev.zero.pricingengine.rules.PricingRules;
 import dev.zero.pricingengine.rules.Rules;
-
+/**
+ * AppControl - Class that controls the flow of execution
+ * @author ppalit
+ *
+ */
 public class AppControl {
 	InputBean inputBean;
 	DataInput dataInput;

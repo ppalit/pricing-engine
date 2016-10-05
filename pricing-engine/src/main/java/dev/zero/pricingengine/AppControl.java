@@ -55,7 +55,7 @@ public class AppControl {
 		
 	}
 	
-	public Map<String, Double> finalPriceForProduct(Map<String, Double> finalPricingMap){
+	Map<String, Double> finalPriceForProduct(Map<String, Double> finalPricingMap){
 		List<ProductSpecs> l1 = inputBean.getProductList();
 		double value;
 		for (ProductSpecs productSpecs : l1) {

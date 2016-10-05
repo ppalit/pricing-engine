@@ -56,5 +56,6 @@ B 12.1
 clone or download the project and run:   
 mvn clean install		
  jar is created in /target folder of the project
-and then run java -jar pricing-engine.jar
+and then run:  	
+java -jar pricing-engine.jar
 
